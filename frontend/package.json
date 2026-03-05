@@ -13,7 +13,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
-  "proxy": "https://three8-guj-bn-ncc.onrender.com",
+
   "browserslist": {
     "production": [
       ">0.2%",
