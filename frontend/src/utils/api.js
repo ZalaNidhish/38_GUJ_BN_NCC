@@ -4,7 +4,7 @@ dotenv.config();
 
 // Base URL for all API calls (proxied to backend via package.json proxy)
 const api = axios.create({
-  baseURL: `${process.env.REACT_APP_API_URL}/api`,
+  baseURL: "https://three8-guj-bn-ncc.onrender.com/api",
 });
 
 // Automatically attach JWT token to every request
